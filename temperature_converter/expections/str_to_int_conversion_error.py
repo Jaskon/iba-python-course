@@ -1,0 +1,2 @@
+class StrToIntConversionError(Exception):
+    pass

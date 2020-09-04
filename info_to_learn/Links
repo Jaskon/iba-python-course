@@ -1,0 +1,17 @@
+Task one:
+
+Magic __main__.py file (needed to create a global-installable module):
+https://docs.python.org/3/library/__main__.html
+
+Creating a setup.py file:
+https://packaging.python.org/tutorials/packaging-projects/#creating-setup-py
+
+Installing a package:
+https://docs.python.org/3/install/#standard-build-and-install
+
+
+--------------------------------
+
+Task two:
+
+
